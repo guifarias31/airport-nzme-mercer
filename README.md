@@ -11,8 +11,6 @@ Download: https://github.com/guifarias31/airport-nzme-mercer/releases/download/0
 
 INSTALLATION INSTRUCTIONS
 
-While on the "Code" tab above, click the green "Code" button, then select Download Zip.
-When the .zip file is downloaded, extract it somewhere on your computer. You should end up with a folder titled "airport-nzme-mercer".
-Inside the master folder are two other folders titled "airport-nzme-mercer" and "airport-nzme-aerial-imagery". Drag this two folders into your MSFS\Community directory.
+Drag the folders "airport-nzme-mercer" and "airport-nzme-aerial-imagery" into your MSFS\Community directory.
 
 If you want to support me, here my PayPal donation link: http://bit.ly/PaypalFarias
