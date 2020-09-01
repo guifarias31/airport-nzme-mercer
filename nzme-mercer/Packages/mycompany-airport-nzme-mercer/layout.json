@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mycompany-airport-nzme-mercer/Thumbnail.jpg",
+      "size": 48122,
+      "date": 132432324160756547
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132433993531164420
+    },
+    {
+      "path": "scenery/airport-nzme-mercer.bgl",
+      "size": 7832,
+      "date": 132434050211350593
+    },
+    {
+      "path": "scenery/AIRPORT-NZME-POLY.BGL",
+      "size": 2003,
+      "date": 132434050211485623
+    }
+  ]
+}

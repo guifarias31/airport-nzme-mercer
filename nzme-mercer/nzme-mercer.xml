@@ -1,0 +1,9 @@
+<Project Version="2" Name="nzme-mercer" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\mycompany-airport-nzme-mercer.xml</Package>
+		<Package>PackageDefinitions\nzme-aerial-imagery.xml</Package>
+	</Packages>
+</Project>
+
