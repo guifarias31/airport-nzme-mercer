@@ -7,6 +7,8 @@ This airport is free to use. If you use this airport in a stream or other creati
 
 Current version: v0.9. Image previews here: https://imgur.com/a/YCoJc4Y
 
+Download: https://github.com/guifarias31/airport-nzme-mercer/releases/download/0.9.1/nzme-mercer-airport.rar
+
 INSTALLATION INSTRUCTIONS
 
 While on the "Code" tab above, click the green "Code" button, then select Download Zip.
