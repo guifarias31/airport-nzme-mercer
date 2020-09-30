@@ -7,18 +7,73 @@
     },
     {
       "path": "manifest.json",
-      "size": 271,
-      "date": 132434115313041342
+      "size": 270,
+      "date": 132454463342029426
     },
     {
       "path": "scenery/airport-nzme-mercer.bgl",
-      "size": 11642,
-      "date": 132434136811333909
+      "size": 11866,
+      "date": 132454463257954066
     },
     {
       "path": "scenery/AIRPORT-NZME-POLY.BGL",
-      "size": 1990,
-      "date": 132434115312916317
+      "size": 2534,
+      "date": 132454463258134097
+    },
+    {
+      "path": "scenery/scenery/global/scenery/modelLib.BGL",
+      "size": 8795896,
+      "date": 132459615259055944
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/BLACK TYRE.PNG.DDS",
+      "size": 699192,
+      "date": 132459615242145074
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/BLACK TYRE.PNG.DDS.json",
+      "size": 102,
+      "date": 132459615242085063
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/CONE_W_REDSTRIPE2.PNG.DDS",
+      "size": 11184952,
+      "date": 132459615224456963
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/CONE_W_REDSTRIPE2.PNG.DDS.json",
+      "size": 102,
+      "date": 132459615224356943
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/DIRTY WHITE.JPG.DDS",
+      "size": 2796344,
+      "date": 132459615240824844
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/DIRTY WHITE.JPG.DDS.json",
+      "size": 102,
+      "date": 132459615240749828
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/GABLE MARKER WHITE.PNG.DDS",
+      "size": 11064,
+      "date": 132459615209974414
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/GABLE MARKER WHITE.PNG.DDS.json",
+      "size": 102,
+      "date": 132459615209939410
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/PARKING MARKER.PNG.DDS",
+      "size": 11184952,
+      "date": 132459615236824139
+    },
+    {
+      "path": "scenery/scenery/global/scenery/TEXTURE/PARKING MARKER.PNG.DDS.json",
+      "size": 102,
+      "date": 132459615236724122
     }
   ]
 }
