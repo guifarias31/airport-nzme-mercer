@@ -1,5 +1,4 @@
-## NZME - Mercer ##
-Airport for MSFS
+## NZME - Mercer Airport for MSFS
 
 Created by: GuiFarias31
 
